@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robotgrid/static/css/main.6f4158d2.chunk.css",
+    "main.js": "/robotgrid/static/js/main.9034241d.chunk.js",
+    "main.js.map": "/robotgrid/static/js/main.9034241d.chunk.js.map",
+    "runtime-main.js": "/robotgrid/static/js/runtime-main.630b936b.js",
+    "runtime-main.js.map": "/robotgrid/static/js/runtime-main.630b936b.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robotgrid/static/css/2.31461e4f.chunk.css",
+    "static/js/2.d627893d.chunk.js": "/robotgrid/static/js/2.d627893d.chunk.js",
+    "static/js/2.d627893d.chunk.js.map": "/robotgrid/static/js/2.d627893d.chunk.js.map",
+    "index.html": "/robotgrid/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robotgrid/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.6f4158d2.chunk.css.map": "/robotgrid/static/css/main.6f4158d2.chunk.css.map",
+    "static/js/2.d627893d.chunk.js.LICENSE.txt": "/robotgrid/static/js/2.d627893d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotgrid/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.630b936b.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.d627893d.chunk.js",
+    "static/css/main.6f4158d2.chunk.css",
+    "static/js/main.9034241d.chunk.js"
+  ]
+}
